@@ -42,7 +42,7 @@ a.externo::after{/* Todo link que for externo ,recebe o content(TODOS OS LINKS R
 
 header{
     background-image: linear-gradient(to bottom,var(--cor3),var(--cor5));
-    min-width:600px ;/*Responsividade:deixar a tela flexivel*/
+
   
     min-height: 150px;
     text-align: center;
@@ -82,7 +82,7 @@ nav{
 nav > a:hover{
     background-color: var(--cor3);
     color:var(--cor5);
-    bor
+
 }
 
 nav > a {
