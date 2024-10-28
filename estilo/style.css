@@ -192,7 +192,7 @@ aside > h3 {
 
 aside > ul {
     list-style-type: '\🗸\00A0\00A0';/*espaço para o caractere*/
-    list-style-position: inside; /*Para a lista ficar dentro do aside,se quiser deixar ára fora é OUTSIDE*/
+    list-style-position: inside; /*Para a lista ficar dentro do aside,se quiser deixar árEa fora é OUTSIDE*/
     columns: 2;/*Para colocar a lista em Duas colunas */
 }
 
